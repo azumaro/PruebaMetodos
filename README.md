@@ -1,4 +1,4 @@
 PruebaMetodos
 =============
 
-Probando como funciona git y github
+Probando cómo funciona git y github
