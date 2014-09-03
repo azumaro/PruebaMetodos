@@ -1,5 +1,6 @@
 print hola mundo
 print adiós mundo
+<<<<<<< HEAD
 
 """
 con git add se adiciona
@@ -13,3 +14,6 @@ con blame se puede ver si hubo modificaciones y quién y cuándo se realizaron
 
 por último con git pull se refresca el contenido en el equipo propio
 """
+=======
+print "esta linea es nueva"
+>>>>>>> ff7c1ae92575a7ba87bc091fe324351618bc3b18
